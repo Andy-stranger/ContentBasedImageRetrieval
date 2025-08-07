@@ -1,0 +1,9 @@
+{
+  "preprocessing": {
+    "resize": true,
+    "resize_shape": [256, 256],
+    "to_grayscale": false,
+    "normalize": true,
+    "noise_reduction": false
+  }
+}
